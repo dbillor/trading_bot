@@ -29,4 +29,4 @@ This repository contains an autonomous crypto trading application that connects 
   You need a valid Ethereum account funded with ETH for gas and tokens (WETH, USDC) to trade.  
   Add your configurations and credentials to `config.json` (never commit sensitive data!).
 
-GOOD LUCK! (BTW- Trading ETh is expensive, be prepared to put in a lot of money and be prepared to lose money.
+GOOD LUCK! (BTW- Trading ETh is expensive, be prepared to put in a lot of money and be prepared to lose money)
