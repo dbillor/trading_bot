@@ -32,6 +32,6 @@ This repository contains an autonomous crypto trading application that connects 
 GOOD LUCK! (BTW- Trading ETh is expensive, be prepared to put in a lot of money and be prepared to lose money)
 
 
-##Example:
+## Example:
 
 ![image](https://github.com/user-attachments/assets/2d489459-ca3a-40f3-8517-c53eb93c521f)
