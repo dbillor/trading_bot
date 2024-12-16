@@ -1,0 +1,5 @@
+{
+  "rpc_endpoint": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
+  "uniswap_subgraph_url": "https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v3",
+  "log_level": "INFO"
+}
