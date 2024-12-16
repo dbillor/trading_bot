@@ -1,5 +1,16 @@
 {
-  "rpc_endpoint": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
-  "uniswap_subgraph_url": "https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v3",
-  "log_level": "INFO"
+  "rpc_endpoint": "https://mainnet.infura.io/v3/2175707efa7d4a8491c5cb75b12212b9",
+  "uniswap_subgraph_url": "https://gateway.thegraph.com/api/3ade64182764ca5cd0839c2dbd5b66ca/subgraphs/id/HUZDsRpEVP2AvzDCyzDHtdc64dyDxx8FQjzsmqSg4H3B",
+  "log_level": "INFO",
+  "private_key": PRIVATE_KEY,
+  "pool_address": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+  "trade_token_in": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",   
+  "trade_token_out": "0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48", 
+  "uniswap_router": "0xE592427A0AEce92De3Edee1F18E0157C05861564", 
+  "momentum_window_seconds": 300,
+  "momentum_threshold_percent": 5.0,
+  "max_daily_loss_limit": 0.2,
+  "base_position_size_wei": "100000000000000000", 
+  "poll_interval_seconds": 60,
+  "slippage_tolerance_percent": 0.5
 }
