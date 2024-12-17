@@ -35,3 +35,8 @@ GOOD LUCK! (BTW- Trading ETh is expensive, be prepared to put in a lot of money 
 ## Example:
 
 ![image](https://github.com/user-attachments/assets/2d489459-ca3a-40f3-8517-c53eb93c521f)
+
+
+Sell triggered:
+
+<img width="552" alt="image" src="https://github.com/user-attachments/assets/67a4d18d-8488-447c-a4a3-47d94b1d5cfe" />
